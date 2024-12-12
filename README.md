@@ -17,10 +17,6 @@ This is a simple recipe-sharing application built with Next.js. SQL is used for 
    ```bash
    npm install
    ```
-3. Set up the SQL database:
-   - Install a SQL database server (e.g., MySQL, PostgreSQL, or SQLite).
-   - Create a new database for the application.
-   - Note the connection details (host, port, username, password, database name).
 5. Start the development server:
    ```bash
    npm run dev
